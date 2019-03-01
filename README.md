@@ -1,5 +1,5 @@
 # Credit_Lending
-This Codebase is to prove the hypothesis that a solution powered by Machine Learning and Behaviour Analytics will find… -> currently invisible transaction behaviour -> aberrations in transactions -> reduce review operations cost by lowering the number of False Positive alerts without using current framework of static rule based alert generation process
+This Codebase is to prove the hypothesis that a solution powered by Machine Learning and Behaviour Analytics will find… -> reduce review operations cost by lowering the number of False Positive without using current framework of static rule based alert generation process
 
 # Description of the Problem
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
